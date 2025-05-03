@@ -3,7 +3,7 @@
  * when actual Solana blockchain transactions can't be processed due to wallet or network issues
  */
 
-import { randomBytes } from 'crypto';
+//import { randomBytes } from 'crypto';
 
 // Constants for the mock transaction system
 const MOCK_TX_PREFIX = 'MOCK_TX_';
